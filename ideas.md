@@ -1,24 +1,17 @@
-# Project Ideas & Brainstorms
-*A designated space for "what if" scenarios, kept separate from v2.0 development.*
+1. "Sentinel" - Personal Cybersecurity Audit Tool
 
----
+The Pitch: A lightweight Python script or CLI that scans your local machine for common security risks (open ports, unencrypted .env files, outdated dependencies).
 
-## Active Ideas
 
-### 1. [Title of Idea]
-* **The Pitch:** 1-2 sentences on what it does.
-* **Tech Stack Potential:** (e.g., Python/FastAPI, Rust, React Native)
-* **The "Hook":** Why is this different from what exists?
-* **Difficulty Level:** (Beginner / Intermediate / Senior Project Grade)
+2. "Ayulon Stream-Sync" - Twitch/OBS Overlay
 
----
+The Pitch: A custom web-based overlay that talks to your Media Tracker API to show "Now Watching" or "Latest Manga Read" live on your stream.
 
-## Small "Utility" Sparks
-* [ ] A CLI tool for...
-* [ ] A script that automates...
-* [ ] A CSS framework experiment for...
+3. "GripStrength" - Physical Therapy Tracker
 
----
+The Pitch: A mobile-first web app specifically designed for tracking recovery from hand/wrist fractures. It logs daily exercises, pain levels, and range-of-motion photos.
 
-## Resources & Inspiration
-* (Links to cool APIs, GitHub repos, or Tech Blogs)
+
+4. "VeriVote" - Blockchain-Lite Voting System
+
+The Pitch: A simplified, transparent voting platform for small organizations (like UMN student groups) that uses a private ledger to prevent double-voting.
