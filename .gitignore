@@ -1,0 +1,11 @@
+# Mac System Files
+.DS_Store
+
+# Development
+node_modules/
+.env
+*.log
+
+# IDEs
+.vscode/
+.idea/
